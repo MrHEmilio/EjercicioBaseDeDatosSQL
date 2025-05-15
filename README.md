@@ -1,21 +1,21 @@
-# Ejercicio de Base De Datos MySQL
+# CLASSICMODEL
 
-Analizar el archivo mysqlsampledatabase.sql  
+Se practican los querys para poder unir tablas mediante JOINS
+## 📸 Imagen del Proyecto
 
-Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql 
+![Vista del Proyecto](AQUÍ_VA_EL_LINK_DE_TU_IMAGEN)
 
-1. Crear la base de datos desde el archivo mysqlsampledatabase.sql
 
-2. Crear el diagrama de la base de datos (classicmodels)
+## 🚀 Funcionalidades
 
-3. Acomodar y analizar el diagrama para poder guardarlo .mwb
+- [x] Manda a llamar varias tablas para poder ver las órdenes de cada cliente con la información que yo consideré necesaria para su correcta lectura
 
-4. Generar las sentencias SQL para mostrar las órdenes completas por cliente (crear el script .sql)
+## 🛠️ Tecnologías utilizadas
 
-      a. Consultar las tablas por separado
-      b. Crear los JOINS necesarios para obtener las órdenes completas por cliente
-      c. Crear la vista con la consulta del paso previo
+- SQL
 
-5. Subir todo al repositorio y mostrar la imagen del diagrama en este README.md
+## 🧑‍💻 Cómo usar este proyecto
 
----
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/tu-repositorio.git
